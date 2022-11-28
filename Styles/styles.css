@@ -1,0 +1,38 @@
+
+.front {
+    background-color: rgba(245, 230, 149, 0.897);
+}
+.block {
+  
+}
+
+.workspace {
+width: 750px;
+height: 500px;
+margin-left: 40px;
+float: left;
+}
+
+.input {
+width: 500px;
+height: 25px;
+}
+
+.inputname {
+    color: rgba(99, 102, 105, 0.973);
+}
+
+input::placeholder {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.checklist {
+margin-top: 50px;
+}
+
+
+
+.comment {
+    color: rgba(99, 102, 105, 0.582);
+}
